@@ -1,0 +1,64 @@
+.banner {
+  background-image: url("img/gambar3.jpg");
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 15rem;
+  background-color: white;
+}
+h4 {
+  color: thistle;
+  font-weight: bold;
+  margin-top: 3rem;
+}
+h3 {
+  color: thistle;
+  font-weight: bold;
+  margin-top: 3rem;
+}
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  color: #fff;
+  background-color: #059511;
+}
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+.crop-img {
+  object-fit: cover;
+}
+a.twitter {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+.client img {
+  height: auto;
+  max-height: 100px;
+}
+.ourcontact {
+  background-image: url("img/pantai1.jpg");
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 15%;
+}
+#services {
+  padding-top: 5rem;
+}
+#ourproduct {
+  padding-top: 5rem;
+}
+#about {
+  padding-top: 5rem;
+}
+#ourstaff {
+  padding-top: 5rem;
+}
